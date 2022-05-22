@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelFED and i'm new to programming 
-- 👀 I’m interested in software development
+- 👀 I’m interested in full stack software engineering
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate with other software developers/engineers
 - 📫 How to reach me ...
