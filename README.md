@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MichaelFED and i'm new to programming 
-- 👀 I’m interested in full stack software engineering
-- 🌱 I’m currently learning front end development
+- 👋 Hi, I’m Michael and i'm new to programming 
+- 👀 I’m a full stack software engineer
+- 🌱 I’m currently learning typescript 
 - 💞️ I’m looking to collaborate with other software developers/engineers
-- 📫 How to reach me ...
+- 📫 You can reach out to me via email...ocheimike17@gmail.com
 
 <!---
 MichaelFED/MichaelFED is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
