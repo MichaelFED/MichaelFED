@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Michael and i'm new to programming 
-- 👀 I’m a full stack software engineer
+- 👋 Hi, I’m Michael Ochei
+- 👀 Accountant turned a full stack MERN developer
 - 🌱 I’m currently learning typescript 
 - 💞️ I’m looking to collaborate with other software developers/engineers
-- 📫 You can reach out to me via email...ocheimike17@gmail.com
+- 📫 You can reach out to me via email...ocheimike17@gmail.com or twitter @es_uche
 
 <!---
 MichaelFED/MichaelFED is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
